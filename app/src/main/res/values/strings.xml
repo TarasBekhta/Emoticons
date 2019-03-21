@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Emoticons</string>
+    <string name="favourites">Favourites</string>
+    <string name="categories">Categories</string>
+    <string name="all">All</string>
+
+    <string-array name="categories_array">
+        <item>Happy</item>
+        <item>Sunglasses</item>
+        <item>Angry</item>
+        <item>Armed</item>
+        <item>Worried</item>
+        <item>Thinking</item>
+        <item>Waving</item>
+        <item>Writing</item>
+        <item>WTF ?</item>
+        <item>Wink</item>
+        <item>Saluting</item>
+        <item>Others</item>
+        <item>Bears</item>
+        <item>More bears</item>
+        <item>Cats</item>
+        <item>Dogs</item>
+        <item>Fight</item>
+        <item>Hide</item>
+        <item>Crazy</item>
+        <item>Sad</item>
+        <item>Evil</item>
+        <item>Dead</item>
+        <item>Confused</item>
+        <item>Dance</item>
+        <item>Large</item>
+        <item>Love</item>
+        <item>Clouds</item>
+    </string-array>
+</resources>
